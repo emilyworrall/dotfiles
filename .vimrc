@@ -10,6 +10,7 @@ call plug#begin()
   Plug 'roman/golden-ratio'
   Plug 'mkitt/tabline.vim'
   Plug 'tpope/vim-fugitive'
+  Plug 'kadekillary/Turtles'
 call plug#end()
 
 filetype plugin indent on
