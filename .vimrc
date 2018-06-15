@@ -29,3 +29,4 @@ set splitright
 set autoindent
 set winwidth=83
 set noswapfile
+set term=screen-256color
